@@ -1,0 +1,21 @@
+{
+  "name": "misc_11_procedural-island",
+  "version": "1.0.0",
+  "description": "procedural island generator",
+  "main": "src/src/index.html",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlecsSandor/MISC_11_procedural-island_private.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlecsSandor/MISC_11_procedural-island_private/issues"
+  },
+  "homepage": "https://github.com/AlecsSandor/MISC_11_procedural-island_private#readme"
+}
